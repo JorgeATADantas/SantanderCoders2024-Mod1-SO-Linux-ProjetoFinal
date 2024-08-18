@@ -17,3 +17,14 @@ A página HTML deve ser hospedada no diretório padrão do servidor web escolhid
 
 ### Critérios de Aceitação:
 A instância deve estar completamente operacional e a página web deve ser acessível a partir do navegador de qualquer máquina na rede após a inicialização. O script de User Data deve ser eficiente e seguir as melhores práticas de segurança e automação.
+
+
+##  Criando uma nova instância na EC2 da AWS:
+![image](https://github.com/user-attachments/assets/8ba6aca2-ce06-4e26-a7de-fdd7740de74f)
+![image](https://github.com/user-attachments/assets/1fb7f6d5-42b5-41a7-9a15-486d61b461d4)
+![image](https://github.com/user-attachments/assets/a4ca264f-e8dd-435b-9a26-6426b87cb9cd)
+![image](https://github.com/user-attachments/assets/6951a49b-97f6-4809-8fc9-d04c689ab55c)
+![image](https://github.com/user-attachments/assets/e33d8c60-e703-4b08-a59d-92e426c5b293)
+![image](https://github.com/user-attachments/assets/2e10ed4e-6707-491c-8148-ab27ff125495)
+
+
